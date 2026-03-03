@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thanusha | Portfolio 2026</title>
+    <title>Thanusha Portfolio 2026</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -37,13 +37,14 @@
             background: rgba(255, 255, 255, 0.9);
             backdrop-filter: blur(12px); 
             position: fixed;
-             width: 100%; 
+            width: 100%; 
              top: 0; 
              z-index: 1000;
         }
         .logo { font-size: 1.6rem;
              font-weight: 800;
               color: var(--primary); }
+
         .nav-links a { text-decoration: none; 
                        color:#5d3c64;
                         margin-left: 25px;
@@ -160,7 +161,7 @@
             <div class="v-box"><h3>Studywiththanu</h3><p>build for uploading a notes ,model paper ,textbooks <br> specially for SEP students
             </p></div>
             <div class="v-box"><h3>Weather App</h3><p>A Python application that fetches real-time weather data using an API.</p></div>
-            <div class="v-box"><h3>To-Do List</h3><p>FKCCI Business plan competition </p></div>
+            <div class="v-box"><h3>To-Do List</h3><p>FKCCI Business plan competition <br>MEDISCAN AI app development</p></div>
         </div>
 
     <section id="contact">
@@ -189,8 +190,8 @@
 
     <footer>
         <p>© 2026 Thanusha | All Rights Reserved</p>
-        <p>Follow me on <a href="#" style="color: var(--primary); text-decoration: none;">GitHub</a> and <a href="#" style="color: var(--primary); text-decoration: none;">LinkedIn</a></p>
-        <p>Designed with ❤️ by Thanusha S</p>
+        <p>Connect me on <a href="#" style="color: var(--primary); text-decoration: none;">GitHub</a> and <a href="#" style="color: var(--primary); text-decoration: none;">LinkedIn</a></p>
+        <p>Designed by Thanu</p>
     </footer>
 
     <script>
